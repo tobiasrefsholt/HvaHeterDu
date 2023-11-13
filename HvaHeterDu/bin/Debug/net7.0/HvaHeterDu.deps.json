@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "HvaHeterDu/1.0.0": {
+        "runtime": {
+          "HvaHeterDu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HvaHeterDu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

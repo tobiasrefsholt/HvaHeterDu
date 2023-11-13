@@ -1,0 +1,15 @@
+/home/tobias/Documents/GetAcademy/Emne 3/HvaHeterDu/HvaHeterDu/bin/Debug/net7.0/HvaHeterDu
+/home/tobias/Documents/GetAcademy/Emne 3/HvaHeterDu/HvaHeterDu/bin/Debug/net7.0/HvaHeterDu.deps.json
+/home/tobias/Documents/GetAcademy/Emne 3/HvaHeterDu/HvaHeterDu/bin/Debug/net7.0/HvaHeterDu.runtimeconfig.json
+/home/tobias/Documents/GetAcademy/Emne 3/HvaHeterDu/HvaHeterDu/bin/Debug/net7.0/HvaHeterDu.dll
+/home/tobias/Documents/GetAcademy/Emne 3/HvaHeterDu/HvaHeterDu/bin/Debug/net7.0/HvaHeterDu.pdb
+/home/tobias/Documents/GetAcademy/Emne 3/HvaHeterDu/HvaHeterDu/obj/Debug/net7.0/HvaHeterDu.csproj.AssemblyReference.cache
+/home/tobias/Documents/GetAcademy/Emne 3/HvaHeterDu/HvaHeterDu/obj/Debug/net7.0/HvaHeterDu.GeneratedMSBuildEditorConfig.editorconfig
+/home/tobias/Documents/GetAcademy/Emne 3/HvaHeterDu/HvaHeterDu/obj/Debug/net7.0/HvaHeterDu.AssemblyInfoInputs.cache
+/home/tobias/Documents/GetAcademy/Emne 3/HvaHeterDu/HvaHeterDu/obj/Debug/net7.0/HvaHeterDu.AssemblyInfo.cs
+/home/tobias/Documents/GetAcademy/Emne 3/HvaHeterDu/HvaHeterDu/obj/Debug/net7.0/HvaHeterDu.csproj.CoreCompileInputs.cache
+/home/tobias/Documents/GetAcademy/Emne 3/HvaHeterDu/HvaHeterDu/obj/Debug/net7.0/HvaHeterDu.dll
+/home/tobias/Documents/GetAcademy/Emne 3/HvaHeterDu/HvaHeterDu/obj/Debug/net7.0/refint/HvaHeterDu.dll
+/home/tobias/Documents/GetAcademy/Emne 3/HvaHeterDu/HvaHeterDu/obj/Debug/net7.0/HvaHeterDu.pdb
+/home/tobias/Documents/GetAcademy/Emne 3/HvaHeterDu/HvaHeterDu/obj/Debug/net7.0/HvaHeterDu.genruntimeconfig.cache
+/home/tobias/Documents/GetAcademy/Emne 3/HvaHeterDu/HvaHeterDu/obj/Debug/net7.0/ref/HvaHeterDu.dll
